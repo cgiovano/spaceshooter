@@ -1,0 +1,10 @@
+threshold: 0,01
+strength: 1,21
+mode: F4
+
+
+
+preset focused with 5 passes
+threshold 0,02s or 0
+strength 1,16
+streaks 1

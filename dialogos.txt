@@ -1,0 +1,26 @@
+História do Jogo
+
+
+
+
+
+
+- O ano é 3085. Desde os anos 2000, a exploração de recursos naturais se tornava cada vez mais intensa. Em nome de algo invisível o homem passava a explorar o meio ambiente sem 
+qualquer tipo de consciência. A cada ano grandes áreas naturais eram devastadas apenas em nome do dinheiro. Entretanto uma ação conjunta dos governos dos países demorou muito para ser tomada.
+Em 2400, os governos propuseram um plano de recuperação do meio ambiente. Mas já era tarde, naquela altura, as primeiras colônias espaciais já estavam mostrando bons resultados, entretanto 
+suportavam um número limitado de pessoas. O ar na terra não era mais inalável e podia causar graves danos à saúde da população terrestre. De pouco em pouco, bilhões de vidas pereceram.
+As colônias foram o refúgio para pessoas poderosas até os dias atuais. A partir de 2889, iniciaram os estudos para uma possível recuperação bioma terrestre, entretanto demoraria algumas centenas de anos.
+
+
+
+
+
+- O ano é 2495. Pesquisadores da terra partiram em uma expedição à marte. A missão era investigar um sinal recebido que partia do planeta. Entretanto, o contato com o comando da expedição foi perdido
+a algumas semanas. Supomos que tenha havido algum problema na nave que levava a equipe até o local da investigação.
+
+comando - Sua missão será acompanhar o ocorrido à equipe de pesquisadores e garantir que o sinal seja reestabelecido com a base.
+
+player - ok, comando!
+
+comando - Você logo mais deve passar por alguns asteroides, você pode disparar contra eles e destruí-los. Cuidado com o tamanho do asteróide. Quando maior for, mais difícil será para destrui-lo
+

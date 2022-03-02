@@ -1,0 +1,55 @@
+﻿------ INIMIGOS PADRÃO ------- 
+1 - Os inimigos e os personagens normais terão dimensões de 64x64 pixels;
+2 - Os inimigos estarão organizados em um grid de 9 colunas e 3 linhas;
+3 - A entrada dos inimigos terá uma spline diferente para cada linha;
+4 - Os inimigos se moverão (ou o grid) sutilmente de um lado para o outro e para baixo 
+    em conjunto e de acordo com o nível, a velocidade desse movimento aumenta;
+5 - No intervalo "X" de tempo, será selecionado um inimigo da lista para atacar
+    o personagem, obviamente, a medida que o jogador for progredindo, o intervalo irá
+    diminuir;   *No momento em que for selecionado, o inimigo deverá reproduzir uma
+    animação a fim de indicar a mudança, bem como um som diferente também.
+6 - A partir do nível "X", será selecionado aleatóriamente a cada intervalo de tempo, 
+    um inimigo que atirará na direção da nave do jogador.
+
+******
+Corrigir problemas de Input
+Verificar a questão da resolução e escalonamento da tela
+trabalhar em novo menu (navegação apenas pelas teclas do computador);
+
+******
+Retrabalhar a arte do jogo:
+- Mais inimigos
+- Arte da nave do jogador
+- Estrelas (distantes, cintilantes e cadentes);
+- Asteroides;
+- Lasers da nave;
+
+******
+- O jogo funcionará no formato de ondas. Existirá a onda de inimigos convencionais;
+a onde de chuva de asteroides; Uma possível chuva com inimigos diferenciados;
+uma chuva onde mistura inimigos convecionais e asteroides e/ou inimigos diferenciados e
+asteroides;
+
+- A medida que o nível sobe, as ondas também aumentam de quantidade;
+
+- No final de cada nível terá a batalha com o chefão;
+
+- Após a batalha com o chefão será exibida uma tela de pontuação e de upgrade de armas;
+
+- Cada inimigo, chefão e asteroid destruído terá uma pontuação 'X' que contará para
+  melhorar as armas do jogador; um sistema de pontos.
+
+- As armas terão comportamentos diferentes, portanto opções de upgrade diferentes, dessa
+  maneira o próprio jogador decide qual a melhor arma para realizar as modificações.
+
+- o save do game será baseado na atual e nível em que o jogador se encontra;
+
+******
+1 - lançar em posição aleatória um bonus de energia para o jogador quando este estiver
+    com a vida abaixo de 30%;
+2 - lançar em tempo aleatório um bonus de escudo de proteção para a nave do jogador;
+3 - posteriormente elaborar um pequeno menu sobre a nave para a seleção de
+    armas (até 3 armas?);
+4 - elaborar um pequeno sistema de particulas para quando os tiros atingem alguma 
+    superfície e quando sai da nave do jogador;
+5 - Melhorar o efeito de explosão do jogo;

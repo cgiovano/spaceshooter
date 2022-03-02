@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/carlo/OneDrive/Projetos/SpaceShooter/SpaceShooter/Content/Assets/Fonts/Font.spritefont</File>
+    <File>C:/Users/carlo/OneDrive/Projetos/SpaceShooter/SpaceShooter/Content/Assets/Images/asteroid_big.png</File>
+    <File>C:/Users/carlo/OneDrive/Projetos/SpaceShooter/SpaceShooter/Content/Assets/Images/asteroid_destroyed.png</File>
+    <File>C:/Users/carlo/OneDrive/Projetos/SpaceShooter/SpaceShooter/Content/Assets/Images/asteroid_med.png</File>
+    <File>C:/Users/carlo/OneDrive/Projetos/SpaceShooter/SpaceShooter/Content/Assets/Images/asteroid_small.png</File>
+    <File>C:/Users/carlo/OneDrive/Projetos/SpaceShooter/SpaceShooter/Content/Assets/Images/Button.png</File>
+    <File>C:/Users/carlo/OneDrive/Projetos/SpaceShooter/SpaceShooter/Content/Assets/Images/comet.png</File>
+    <File>C:/Users/carlo/OneDrive/Projetos/SpaceShooter/SpaceShooter/Content/Assets/Images/enemy_a.png</File>
+    <File>C:/Users/carlo/OneDrive/Projetos/SpaceShooter/SpaceShooter/Content/Assets/Images/enemy_b.png</File>
+    <File>C:/Users/carlo/OneDrive/Projetos/SpaceShooter/SpaceShooter/Content/Assets/Images/enemy_c.png</File>
+    <File>C:/Users/carlo/OneDrive/Projetos/SpaceShooter/SpaceShooter/Content/Assets/Images/enemy_d.png</File>
+    <File>C:/Users/carlo/OneDrive/Projetos/SpaceShooter/SpaceShooter/Content/Assets/Images/enemy_e.png</File>
+    <File>C:/Users/carlo/OneDrive/Projetos/SpaceShooter/SpaceShooter/Content/Assets/Images/enemy_laser.png</File>
+    <File>C:/Users/carlo/OneDrive/Projetos/SpaceShooter/SpaceShooter/Content/Assets/Images/explosion_particle.png</File>
+    <File>C:/Users/carlo/OneDrive/Projetos/SpaceShooter/SpaceShooter/Content/Assets/Images/player_laser.png</File>
+    <File>C:/Users/carlo/OneDrive/Projetos/SpaceShooter/SpaceShooter/Content/Assets/Images/space_ship.png</File>
+    <File>C:/Users/carlo/OneDrive/Projetos/SpaceShooter/SpaceShooter/Content/Assets/Images/Star.png</File>
+    <File>C:/Users/carlo/OneDrive/Projetos/SpaceShooter/SpaceShooter/Content/Assets/Sounds/Boom.wav</File>
+    <File>C:/Users/carlo/OneDrive/Projetos/SpaceShooter/SpaceShooter/Content/Assets/Sounds/Hurt1.wav</File>
+    <File>C:/Users/carlo/OneDrive/Projetos/SpaceShooter/SpaceShooter/Content/Assets/Sounds/Lose.wav</File>
+    <File>C:/Users/carlo/OneDrive/Projetos/SpaceShooter/SpaceShooter/Content/Assets/Sounds/OneUp.wav</File>
+    <File>C:/Users/carlo/OneDrive/Projetos/SpaceShooter/SpaceShooter/Content/Assets/Sounds/Zap1.wav</File>
+    <File>C:/Users/carlo/OneDrive/Projetos/SpaceShooter/SpaceShooter/Content/Assets/Sounds/Zap2.wav</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

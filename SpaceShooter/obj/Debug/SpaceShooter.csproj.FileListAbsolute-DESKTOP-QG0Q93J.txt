@@ -1,0 +1,107 @@
+C:/Users/Carlos Giovano/documents/visual studio 2017/Projects/SpaceShooter/SpaceShooter/bin/DesktopGL/AnyCPU/Debug/MonoGame.Framework.dll.config
+C:/Users/Carlos Giovano/documents/visual studio 2017/Projects/SpaceShooter/SpaceShooter/bin/DesktopGL/AnyCPU/Debug/Content/Asteroid.xnb
+C:/Users/Carlos Giovano/documents/visual studio 2017/Projects/SpaceShooter/SpaceShooter/bin/DesktopGL/AnyCPU/Debug/Content/Laser.xnb
+C:/Users/Carlos Giovano/documents/visual studio 2017/Projects/SpaceShooter/SpaceShooter/bin/DesktopGL/AnyCPU/Debug/Content/SpaceShip.xnb
+C:/Users/Carlos Giovano/documents/visual studio 2017/Projects/SpaceShooter/SpaceShooter/bin/DesktopGL/AnyCPU/Debug/Content/Star.xnb
+C:/Users/Carlos Giovano/documents/visual studio 2017/Projects/SpaceShooter/SpaceShooter/bin/DesktopGL/AnyCPU/Debug/x86/SDL2.dll
+C:/Users/Carlos Giovano/documents/visual studio 2017/Projects/SpaceShooter/SpaceShooter/bin/DesktopGL/AnyCPU/Debug/x64/SDL2.dll
+C:/Users/Carlos Giovano/documents/visual studio 2017/Projects/SpaceShooter/SpaceShooter/bin/DesktopGL/AnyCPU/Debug/x86/soft_oal.dll
+C:/Users/Carlos Giovano/documents/visual studio 2017/Projects/SpaceShooter/SpaceShooter/bin/DesktopGL/AnyCPU/Debug/x64/soft_oal.dll
+C:/Users/Carlos Giovano/documents/visual studio 2017/Projects/SpaceShooter/SpaceShooter/bin/DesktopGL/AnyCPU/Debug/x86/libSDL2-2.0.so.0
+C:/Users/Carlos Giovano/documents/visual studio 2017/Projects/SpaceShooter/SpaceShooter/bin/DesktopGL/AnyCPU/Debug/x64/libSDL2-2.0.so.0
+C:/Users/Carlos Giovano/documents/visual studio 2017/Projects/SpaceShooter/SpaceShooter/bin/DesktopGL/AnyCPU/Debug/x86/libopenal.so.1
+C:/Users/Carlos Giovano/documents/visual studio 2017/Projects/SpaceShooter/SpaceShooter/bin/DesktopGL/AnyCPU/Debug/x64/libopenal.so.1
+C:/Users/Carlos Giovano/documents/visual studio 2017/Projects/SpaceShooter/SpaceShooter/bin/DesktopGL/AnyCPU/Debug/libSDL2-2.0.0.dylib
+C:/Users/Carlos Giovano/documents/visual studio 2017/Projects/SpaceShooter/SpaceShooter/bin/DesktopGL/AnyCPU/Debug/libopenal.1.dylib
+C:/Users/Carlos Giovano/documents/visual studio 2017/Projects/SpaceShooter/SpaceShooter/bin/DesktopGL/AnyCPU/Debug/SpaceShooter.exe
+C:/Users/Carlos Giovano/documents/visual studio 2017/Projects/SpaceShooter/SpaceShooter/bin/DesktopGL/AnyCPU/Debug/SpaceShooter.pdb
+C:/Users/Carlos Giovano/documents/visual studio 2017/Projects/SpaceShooter/SpaceShooter/bin/DesktopGL/AnyCPU/Debug/MonoGame.Framework.dll
+C:/Users/Carlos Giovano/documents/visual studio 2017/Projects/SpaceShooter/SpaceShooter/obj/Debug/SpaceShooter.exe
+C:/Users/Carlos Giovano/documents/visual studio 2017/Projects/SpaceShooter/SpaceShooter/obj/Debug/SpaceShooter.pdb
+C:/Users/Carlos Giovano/documents/visual studio 2017/Projects/SpaceShooter/SpaceShooter/obj/Debug/SpaceShooter.csprojResolveAssemblyReference.cache
+/home/cgiovano/jogos/SpaceShooter/SpaceShooter/bin/DesktopGL/AnyCPU/Debug/MonoGame.Framework.dll.config
+/home/cgiovano/jogos/SpaceShooter/SpaceShooter/bin/DesktopGL/AnyCPU/Debug/Content/Assets/Sounds/Zap2.xnb
+/home/cgiovano/jogos/SpaceShooter/SpaceShooter/bin/DesktopGL/AnyCPU/Debug/Content/Assets/Sounds/Lose.xnb
+/home/cgiovano/jogos/SpaceShooter/SpaceShooter/bin/DesktopGL/AnyCPU/Debug/Content/Assets/Sounds/Zap1.xnb
+/home/cgiovano/jogos/SpaceShooter/SpaceShooter/bin/DesktopGL/AnyCPU/Debug/Content/Assets/Sounds/Boom.xnb
+/home/cgiovano/jogos/SpaceShooter/SpaceShooter/bin/DesktopGL/AnyCPU/Debug/Content/Assets/Sounds/OneUp.xnb
+/home/cgiovano/jogos/SpaceShooter/SpaceShooter/bin/DesktopGL/AnyCPU/Debug/Content/Assets/Sounds/Hurt1.xnb
+/home/cgiovano/jogos/SpaceShooter/SpaceShooter/bin/DesktopGL/AnyCPU/Debug/Content/Assets/Images/asteroid.xnb
+/home/cgiovano/jogos/SpaceShooter/SpaceShooter/bin/DesktopGL/AnyCPU/Debug/Content/Assets/Images/Boss_A.xnb
+/home/cgiovano/jogos/SpaceShooter/SpaceShooter/bin/DesktopGL/AnyCPU/Debug/Content/Assets/Images/SpaceShip.xnb
+/home/cgiovano/jogos/SpaceShooter/SpaceShooter/bin/DesktopGL/AnyCPU/Debug/Content/Assets/Images/asteroidTextureCollision.xnb
+/home/cgiovano/jogos/SpaceShooter/SpaceShooter/bin/DesktopGL/AnyCPU/Debug/Content/Assets/Images/Star.xnb
+/home/cgiovano/jogos/SpaceShooter/SpaceShooter/bin/DesktopGL/AnyCPU/Debug/Content/Assets/Images/Button.xnb
+/home/cgiovano/jogos/SpaceShooter/SpaceShooter/bin/DesktopGL/AnyCPU/Debug/Content/Assets/Images/Enemy1.xnb
+/home/cgiovano/jogos/SpaceShooter/SpaceShooter/bin/DesktopGL/AnyCPU/Debug/Content/Assets/Images/spaceShipTextureCollision.xnb
+/home/cgiovano/jogos/SpaceShooter/SpaceShooter/bin/DesktopGL/AnyCPU/Debug/Content/Assets/Images/Laser.xnb
+/home/cgiovano/jogos/SpaceShooter/SpaceShooter/bin/DesktopGL/AnyCPU/Debug/Content/Assets/Images/EnemyACollisionTexture.xnb
+/home/cgiovano/jogos/SpaceShooter/SpaceShooter/bin/DesktopGL/AnyCPU/Debug/Content/Assets/Images/ExplosionParticle.xnb
+/home/cgiovano/jogos/SpaceShooter/SpaceShooter/bin/DesktopGL/AnyCPU/Debug/Content/Assets/Images/Weakness_A.xnb
+/home/cgiovano/jogos/SpaceShooter/SpaceShooter/bin/DesktopGL/AnyCPU/Debug/x86/SDL2.dll
+/home/cgiovano/jogos/SpaceShooter/SpaceShooter/bin/DesktopGL/AnyCPU/Debug/x64/SDL2.dll
+/home/cgiovano/jogos/SpaceShooter/SpaceShooter/bin/DesktopGL/AnyCPU/Debug/x86/soft_oal.dll
+/home/cgiovano/jogos/SpaceShooter/SpaceShooter/bin/DesktopGL/AnyCPU/Debug/x64/soft_oal.dll
+/home/cgiovano/jogos/SpaceShooter/SpaceShooter/bin/DesktopGL/AnyCPU/Debug/x86/libSDL2-2.0.so.0
+/home/cgiovano/jogos/SpaceShooter/SpaceShooter/bin/DesktopGL/AnyCPU/Debug/x64/libSDL2-2.0.so.0
+/home/cgiovano/jogos/SpaceShooter/SpaceShooter/bin/DesktopGL/AnyCPU/Debug/x86/libopenal.so.1
+/home/cgiovano/jogos/SpaceShooter/SpaceShooter/bin/DesktopGL/AnyCPU/Debug/x64/libopenal.so.1
+/home/cgiovano/jogos/SpaceShooter/SpaceShooter/bin/DesktopGL/AnyCPU/Debug/libSDL2-2.0.0.dylib
+/home/cgiovano/jogos/SpaceShooter/SpaceShooter/bin/DesktopGL/AnyCPU/Debug/libopenal.1.dylib
+/home/cgiovano/jogos/SpaceShooter/SpaceShooter/bin/DesktopGL/AnyCPU/Debug/SpaceShooter.exe
+/home/cgiovano/jogos/SpaceShooter/SpaceShooter/bin/DesktopGL/AnyCPU/Debug/SpaceShooter.pdb
+/home/cgiovano/jogos/SpaceShooter/SpaceShooter/bin/DesktopGL/AnyCPU/Debug/MonoGame.Framework.dll
+/home/cgiovano/jogos/SpaceShooter/SpaceShooter/bin/DesktopGL/AnyCPU/Debug/MonoGame.Framework.xml
+/home/cgiovano/jogos/SpaceShooter/SpaceShooter/obj/Debug/SpaceShooter.csprojAssemblyReference.cache
+/home/cgiovano/jogos/SpaceShooter/SpaceShooter/obj/Debug/SpaceShooter.csproj.CopyComplete
+/home/cgiovano/jogos/SpaceShooter/SpaceShooter/obj/Debug/SpaceShooter.exe
+/home/cgiovano/jogos/SpaceShooter/SpaceShooter/obj/Debug/SpaceShooter.pdb
+/home/cgiovano/jogos/SpaceShooter/SpaceShooter/bin/DesktopGL/AnyCPU/Debug/Content/Assets/Fonts/Font.xnb
+C:\Users\carlo\OneDrive\Projetos\SpaceShooter\SpaceShooter\bin\DesktopGL\AnyCPU\Debug\Content\Assets\Images\asteroidTextureCollision.xnb
+C:\Users\carlo\OneDrive\Projetos\SpaceShooter\SpaceShooter\bin\DesktopGL\AnyCPU\Debug\Content\Assets\Images\spaceShipTextureCollision.xnb
+C:\Users\carlo\OneDrive\Projetos\SpaceShooter\SpaceShooter\bin\DesktopGL\AnyCPU\Debug\x86\SDL2.dll
+C:\Users\carlo\OneDrive\Projetos\SpaceShooter\SpaceShooter\bin\DesktopGL\AnyCPU\Debug\x64\SDL2.dll
+C:\Users\carlo\OneDrive\Projetos\SpaceShooter\SpaceShooter\bin\DesktopGL\AnyCPU\Debug\x86\soft_oal.dll
+C:\Users\carlo\OneDrive\Projetos\SpaceShooter\SpaceShooter\bin\DesktopGL\AnyCPU\Debug\x64\soft_oal.dll
+C:\Users\carlo\OneDrive\Projetos\SpaceShooter\SpaceShooter\bin\DesktopGL\AnyCPU\Debug\x86\libSDL2-2.0.so.0
+C:\Users\carlo\OneDrive\Projetos\SpaceShooter\SpaceShooter\bin\DesktopGL\AnyCPU\Debug\x64\libSDL2-2.0.so.0
+C:\Users\carlo\OneDrive\Projetos\SpaceShooter\SpaceShooter\bin\DesktopGL\AnyCPU\Debug\x86\libopenal.so.1
+C:\Users\carlo\OneDrive\Projetos\SpaceShooter\SpaceShooter\bin\DesktopGL\AnyCPU\Debug\x64\libopenal.so.1
+C:\Users\carlo\OneDrive\Projetos\SpaceShooter\SpaceShooter\bin\DesktopGL\AnyCPU\Debug\libSDL2-2.0.0.dylib
+C:\Users\carlo\OneDrive\Projetos\SpaceShooter\SpaceShooter\bin\DesktopGL\AnyCPU\Debug\libopenal.1.dylib
+C:\Users\carlo\OneDrive\Projetos\SpaceShooter\SpaceShooter\bin\DesktopGL\AnyCPU\Debug\MonoGame.Framework.dll.config
+C:\Users\carlo\OneDrive\Projetos\SpaceShooter\SpaceShooter\bin\DesktopGL\AnyCPU\Debug\Content\Assets\Sounds\Boom.xnb
+C:\Users\carlo\OneDrive\Projetos\SpaceShooter\SpaceShooter\bin\DesktopGL\AnyCPU\Debug\Content\Assets\Sounds\Hurt1.xnb
+C:\Users\carlo\OneDrive\Projetos\SpaceShooter\SpaceShooter\bin\DesktopGL\AnyCPU\Debug\Content\Assets\Sounds\Lose.xnb
+C:\Users\carlo\OneDrive\Projetos\SpaceShooter\SpaceShooter\bin\DesktopGL\AnyCPU\Debug\Content\Assets\Sounds\OneUp.xnb
+C:\Users\carlo\OneDrive\Projetos\SpaceShooter\SpaceShooter\bin\DesktopGL\AnyCPU\Debug\Content\Assets\Sounds\Zap1.xnb
+C:\Users\carlo\OneDrive\Projetos\SpaceShooter\SpaceShooter\bin\DesktopGL\AnyCPU\Debug\Content\Assets\Sounds\Zap2.xnb
+C:\Users\carlo\OneDrive\Projetos\SpaceShooter\SpaceShooter\bin\DesktopGL\AnyCPU\Debug\Content\Assets\Images\Asteroid.xnb
+C:\Users\carlo\OneDrive\Projetos\SpaceShooter\SpaceShooter\bin\DesktopGL\AnyCPU\Debug\Content\Assets\Images\Boss_A.xnb
+C:\Users\carlo\OneDrive\Projetos\SpaceShooter\SpaceShooter\bin\DesktopGL\AnyCPU\Debug\Content\Assets\Images\Button.xnb
+C:\Users\carlo\OneDrive\Projetos\SpaceShooter\SpaceShooter\bin\DesktopGL\AnyCPU\Debug\Content\Assets\Images\Enemy1.xnb
+C:\Users\carlo\OneDrive\Projetos\SpaceShooter\SpaceShooter\bin\DesktopGL\AnyCPU\Debug\Content\Assets\Images\EnemyACollisionTexture.xnb
+C:\Users\carlo\OneDrive\Projetos\SpaceShooter\SpaceShooter\bin\DesktopGL\AnyCPU\Debug\Content\Assets\Images\ExplosionParticle.xnb
+C:\Users\carlo\OneDrive\Projetos\SpaceShooter\SpaceShooter\bin\DesktopGL\AnyCPU\Debug\Content\Assets\Images\Laser.xnb
+C:\Users\carlo\OneDrive\Projetos\SpaceShooter\SpaceShooter\bin\DesktopGL\AnyCPU\Debug\Content\Assets\Images\SpaceShip.xnb
+C:\Users\carlo\OneDrive\Projetos\SpaceShooter\SpaceShooter\bin\DesktopGL\AnyCPU\Debug\Content\Assets\Images\Star.xnb
+C:\Users\carlo\OneDrive\Projetos\SpaceShooter\SpaceShooter\bin\DesktopGL\AnyCPU\Debug\Content\Assets\Images\Weakness_A.xnb
+C:\Users\carlo\OneDrive\Projetos\SpaceShooter\SpaceShooter\bin\DesktopGL\AnyCPU\Debug\Content\Assets\Fonts\Font.xnb
+C:\Users\carlo\OneDrive\Projetos\SpaceShooter\SpaceShooter\bin\DesktopGL\AnyCPU\Debug\SpaceShooter.exe
+C:\Users\carlo\OneDrive\Projetos\SpaceShooter\SpaceShooter\bin\DesktopGL\AnyCPU\Debug\SpaceShooter.pdb
+C:\Users\carlo\OneDrive\Projetos\SpaceShooter\SpaceShooter\bin\DesktopGL\AnyCPU\Debug\MonoGame.Framework.dll
+C:\Users\carlo\OneDrive\Projetos\SpaceShooter\SpaceShooter\obj\Debug\SpaceShooter.csprojAssemblyReference.cache
+C:\Users\carlo\OneDrive\Projetos\SpaceShooter\SpaceShooter\obj\Debug\SpaceShooter.csproj.CoreCompileInputs.cache
+C:\Users\carlo\OneDrive\Projetos\SpaceShooter\SpaceShooter\obj\Debug\SpaceShooter.csproj.CopyComplete
+C:\Users\carlo\OneDrive\Projetos\SpaceShooter\SpaceShooter\obj\Debug\SpaceShooter.exe
+C:\Users\carlo\OneDrive\Projetos\SpaceShooter\SpaceShooter\obj\Debug\SpaceShooter.pdb
+C:\Users\carlo\OneDrive\Projetos\SpaceShooter\SpaceShooter\bin\DesktopGL\AnyCPU\Debug\Content\Assets\Images\asteroid_big.xnb
+C:\Users\carlo\OneDrive\Projetos\SpaceShooter\SpaceShooter\bin\DesktopGL\AnyCPU\Debug\Content\Assets\Images\asteroid_destroyed.xnb
+C:\Users\carlo\OneDrive\Projetos\SpaceShooter\SpaceShooter\bin\DesktopGL\AnyCPU\Debug\Content\Assets\Images\asteroid_med.xnb
+C:\Users\carlo\OneDrive\Projetos\SpaceShooter\SpaceShooter\bin\DesktopGL\AnyCPU\Debug\Content\Assets\Images\asteroid_small.xnb
+C:\Users\carlo\OneDrive\Projetos\SpaceShooter\SpaceShooter\bin\DesktopGL\AnyCPU\Debug\Content\Assets\Images\comet.xnb
+C:\Users\carlo\OneDrive\Projetos\SpaceShooter\SpaceShooter\bin\DesktopGL\AnyCPU\Debug\Content\Assets\Images\enemy_a.xnb
+C:\Users\carlo\OneDrive\Projetos\SpaceShooter\SpaceShooter\bin\DesktopGL\AnyCPU\Debug\Content\Assets\Images\enemy_laser.xnb
+C:\Users\carlo\OneDrive\Projetos\SpaceShooter\SpaceShooter\bin\DesktopGL\AnyCPU\Debug\Content\Assets\Images\player_laser.xnb
+C:\Users\carlo\OneDrive\Projetos\SpaceShooter\SpaceShooter\bin\DesktopGL\AnyCPU\Debug\Content\Assets\Images\space_ship.xnb
+C:\Users\carlo\OneDrive\Projetos\SpaceShooter\SpaceShooter\bin\DesktopGL\AnyCPU\Debug\Content\Assets\Images\explosion_particle.xnb
